@@ -1,0 +1,5 @@
+{
+  "parserOptions": { "ecmaVersion": 2020 },
+  "extends": "eslint:recommended",
+  "env": { "node": true }
+}
